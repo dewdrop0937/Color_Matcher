@@ -53,7 +53,7 @@ Wake-word 기반 음성 인터페이스, YOLO 기반 비전 인식, 깊이 카�
 corobot2_project/
 ├── voice/
 │   └── wakeup_word_node.py       # Wake-word 인식 및 서비스 호출
-│   └── MicController.py          # 마이크 스트림 열기/닫기 기능
+│   └── mic_controller.py          # 마이크 스트림 열기/닫기 기능
 │   └── paint_command_server.py
 │   └── stt_parser_topic_pub.py
 │
